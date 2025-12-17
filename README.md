@@ -7,7 +7,7 @@ I specialize in designing intelligent, autonomous AI agents and building scalabl
 - 🤖 **Agentic AI expert** building goal-driven, autonomous AI systems
 - 🧠 Skilled in **Generative AI, LLMs, Prompt Engineering, and ChatGPT**
 - 🔭 Working on **AI agents, chat-based systems, and intelligent automation**
-- ☁️ Experienced with **AWS, Azure, and Google Cloud**
+- ☁️ Experienced with **AWS and Azure**
 - 🚀 Passionate about turning complex ideas into real-world products
 
 
