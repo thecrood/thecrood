@@ -1,14 +1,17 @@
 
 ## 👨‍💻 About Me
-Hi 👋 I’m **Rohit**, a **Software Engineer** and **Agentic AI expert** with a strong focus on **Generative AI, LLM-powered systems, and backend engineering**.  
-I specialize in designing intelligent, autonomous AI agents and building scalable, production-ready applications.
+Hi 👋 I’m Rohit, a Backend & AI Engineer specializing in Generative AI, Agentic AI, LLM-powered systems, and scalable backend engineering.
 
-- 💻 **Software Engineer** with experience in full-stack and backend development
-- 🤖 **Agentic AI expert** building goal-driven, autonomous AI systems
-- 🧠 Skilled in **Generative AI, LLMs, Prompt Engineering, and ChatGPT**
-- 🔭 Working on **AI agents, chat-based systems, and intelligent automation**
-- ☁️ Experienced with **AWS and Azure**
-- 🚀 Passionate about turning complex ideas into real-world products
+I build production-ready AI systems, multi-agent architectures, intelligent search solutions, and high-performance backend services using Python and modern cloud technologies.
+
+- 💻 Backend & AI Engineer with 4+ years of experience
+- 🤖 Building Agentic AI and multi-agent systems using AWS Bedrock & Strands Agents
+- 🔄 Experienced in Agent-to-Agent (A2A) communication, agent orchestration, and session/context management
+- 🧠 Skilled in Generative AI, LLMs, RAG, Prompt Engineering, Semantic Search & Vector Search
+- 🏥 Building healthcare AI workflows including provider search and appointment booking
+- ⚡ Experienced in Python, FastAPI, MongoDB, REST APIs & Microservices
+- ☁️ Experienced with AWS, Azure, Docker & Kubernetes
+- 🚀 Passionate about turning complex problems into scalable, intelligent products
 
 
 ## 🌐 Socials:
